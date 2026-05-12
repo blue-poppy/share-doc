@@ -36,27 +36,4 @@ harmonisation.
   variable dictionary.
 - <https://blue-poppy.github.io/share-doc/guides/wave-9/> is an example
   wave-specific variable page.
-- `main.py` generates the wave-level variable dictionary pages from local Stata
-  metadata.
-- `zensical.toml` configures the documentation website.
 
-## Development
-
-Install dependencies with `uv`:
-
-```sh
-uv sync
-```
-
-Preview or build the documentation with Zensical:
-
-```sh
-uv run zensical serve
-uv run zensical build
-```
-
-Regenerate the wave dictionary pages after updating the local SHARE data files:
-
-```sh
-uv run python main.py
-```
