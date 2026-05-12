@@ -20,7 +20,7 @@ Use the official SHARE sources below for complementary tasks:
 - SHARE Data & Documentation Tool: <https://www.share-datadocutool.org/>
 - SHARE Cross-Wave Comparison: <https://www.share-eric.eu/data/data-documentation/questionnaires/cross-wave-comparison>
 
-For module selection and naming conventions, see the [module guide](../modules.md).
+For module selection and naming conventions, see the [module guide](./modules.md).
 
 ## Waves
 

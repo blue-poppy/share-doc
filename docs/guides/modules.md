@@ -6,7 +6,7 @@ icon: lucide/folder-tree
 
 This page is a practical guide to SHARE module names as they appear in the downloaded `.dta` files and in `pyshare`.
 
-For the exact variable-by-variable dictionary within each wave, see the [variable dictionary](./variables/index.md).
+For the exact variable-by-variable dictionary within each wave, see the [variable dictionary](./index.md).
 
 The key point is simple:
 
@@ -230,7 +230,7 @@ health = ps.read_share_wave(
 )
 ```
 
-Once you know which module you need, use the [variable dictionary](./variables/index.md) to look up the exact variable labels inside that module for a specific wave.
+Once you know which module you need, use the [variable dictionary](./index.md) to look up the exact variable labels inside that module for a specific wave.
 
 ## Practical rules of thumb
 
