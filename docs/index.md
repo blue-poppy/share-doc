@@ -13,7 +13,7 @@ SHARE is the Survey of Health, Ageing and Retirement in Europe. It follows older
 adults across countries and waves, with data on health, family, employment,
 income, assets, housing, social networks, retirement, and end-of-life interviews.
 
-## What You Can Use It For
+## What you can use it for
 
 - Choose which SHARE modules to load for a research question.
 - Translate between official module labels, downloaded `.dta` filenames, and
@@ -26,7 +26,7 @@ income, assets, housing, social networks, retirement, and end-of-life interviews
 - Avoid common wave-specific mistakes, especially around SHARELIFE modules in
   wave 3.
 
-## Start Here
+## Start here
 
 - [Choosing SHARE modules](guides/modules.md) explains module names, filename
   patterns, and common starting points for analysis.
